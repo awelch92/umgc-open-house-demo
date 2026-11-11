@@ -8,6 +8,8 @@ The website simulates an open house event for the University of Maryland Global 
 
 **Disclaimer:** This is an unofficial, educational project created for personal practice and portfolio purposes. It is not affiliated with or endorsed by UMGC. All event details are fictional.
 
+Deployment: https://awelch92.github.io/umgc-open-house-demo/
+
 ## Technologies Used
 
 - HTML5
